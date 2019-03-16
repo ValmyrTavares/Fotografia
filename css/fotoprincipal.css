@@ -1,0 +1,41 @@
+html,body{
+    height:100%;
+    overflow-x:hidden;
+}
+body{
+    perspective: 10px;
+    perspective-origin: 50% 160px;
+}
+
+
+
+.foto-principal{
+    position:relative;
+      border: solid 1px black;
+      overflow:hidden;
+  }
+  .foto-principal img{
+      width:1350px;
+      height:600px;
+      transform:scale(1.5) translate3d(46px, 40px, -2px)
+  
+  }
+    h1{
+        color:white;
+        font-size:84px;
+        padding-left:200px;
+        text-shadow: 5px 5px black;
+        position: absolute;
+        left:207px;
+        top:188px;
+  
+    }
+    .foto-principal h2{
+        color:white;
+        font-size:40px;
+        padding-left:200px;
+        text-shadow: 5px 5px black;
+        position: absolute;
+        left:276px;
+        top:309px;
+    }

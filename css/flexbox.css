@@ -1,0 +1,49 @@
+header{
+    display:flex;
+    justify-content: space-around;
+   
+}
+
+
+.cabecalho{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}
+
+.midias-sociais{
+    display:flex;
+    flex-direction:column;
+    justify-content: space-between;
+}
+.eu{
+    display:flex;
+    justify-content:space-between;
+}
+.text{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+    align-items: center;
+}
+.text p{
+    padding-left:30px;
+}
+.galeria{
+    display:flex;
+    flex-wrap: wrap;
+}
+.container{
+    display:flex;
+    justify-content:space-around;
+
+}
+.vamos-conversar{
+    display:flex;
+    justify-content: space-between;
+   
+}
+.fale-conosco{
+    display:flex;
+    justify-content:space-around;
+}
