@@ -70,7 +70,7 @@
     .img-final{
         position:relative;
         width:100%;
-        background-image:url("../../exer-5/imagens/imagem2.JPG");
+        background-image:url("../imagens/imagem2.JPG");
         background-attachment: fixed;
         background-size: cover;
         height:800px;
